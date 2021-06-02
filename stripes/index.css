@@ -1,0 +1,42 @@
+body {
+  background-color: #0c2428;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+.stripes {
+  width: 400px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.inner {
+  width: 100%;
+  height: 50px;
+  background-color: yellow;
+}
+
+.circle {
+  position: absolute;
+  background-color: #0c2428;
+  /* background-color: red; */
+  height: 400px;
+  width: 300px;
+  border-radius: 100%;
+  z-index: 10;
+}
+
+.left {
+  margin-left: 430px;
+}
+.right {
+  margin-right: 430px;
+}

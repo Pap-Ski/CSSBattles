@@ -1,0 +1,36 @@
+body {
+  background-color: #6592cf;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.d {
+  position: absolute;
+}
+
+.circle {
+  width: 100px;
+  height: 100px;
+  background-color: #6592cf;
+  box-shadow: 0 0 0 50px #243d83;
+  border-radius: 50%;
+}
+
+.square {
+  margin-right: 100px;
+  margin-bottom: 100px;
+  height: 100px;
+  width: 100px;
+  display: flex;
+}
+.left {
+  height: 100%;
+  width: 50%;
+  background-color: #243d83;
+}
+.right {
+  height: 100%;
+  width: 50%;
+  background-color: #6592cf;
+}

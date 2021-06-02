@@ -1,0 +1,24 @@
+body {
+  background-color: #0c2428;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div {
+  position: absolute;
+}
+.main {
+  background-color: yellow;
+  width: 340px;
+  height: 330px;
+  border-radius: 50% 0;
+  transform: rotate(40deg);
+}
+.inner {
+  background-color: #0c2428;
+  border-radius: 50%;
+  height: 68px;
+  width: 66px;
+  box-shadow: 0 0 0 60px rgb(97, 97, 10), 0 0 0 100px #0c2428;
+}
