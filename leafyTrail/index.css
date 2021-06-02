@@ -1,0 +1,26 @@
+body {
+  background-color: #0b2429;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.leaf {
+  margin-top: 50px;
+  border-radius: 70% 0 70% 0;
+  width: 500px;
+  height: 550px;
+}
+.one {
+  background-color: #1a4341;
+  transform: translate(-100px);
+}
+.two {
+  background-color: #998235;
+  position: absolute;
+}
+.three {
+  background-color: #f3ac3c;
+  position: absolute;
+  transform: translate(100px);
+}
