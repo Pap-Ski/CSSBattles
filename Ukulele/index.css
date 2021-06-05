@@ -1,0 +1,65 @@
+:root {
+  --fc-main: #f3ac3c;
+  --fc-col1: #998235;
+  --fc-col2: #1a4341;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  background: var(--fc-main);
+}
+.big {
+  position: relative;
+  right: 95px;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background: var(--fc-col1);
+}
+.big-inner {
+  position: absolute;
+  top: 40px;
+  left: 40px;
+  width: 10px;
+  height: 40px;
+  border-radius: 10px;
+  background: var(--fc-col2);
+}
+.bar {
+  position: absolute;
+  right: 70px;
+  background: var(--fc-col2);
+  width: 160px;
+  height: 20px;
+}
+.small {
+  position: absolute;
+  right: 215px;
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  background: var(--fc-col2);
+  box-shadow: 0 0 0 5px var(--fc-main), 0 0 0 30px var(--fc-col1);
+}
+.con {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  position: absolute;
+  left: 310px;
+  background: var(--fc-col1);
+  width: 40px;
+  height: 30px;
+  border-radius: 10px;
+}
+.con-bar {
+  background: var(--fc-col2);
+  border-radius: 10px;
+  height: 5px;
+  width: 20px;
+}
