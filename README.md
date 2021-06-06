@@ -1,8 +1,8 @@
 # CSSBattle SUBMISSIONS
 
-CSSBattle is an online CSS [Code Golfing](https://en.wikipedia.org/wiki/Code_golf) game. Here, players from all around the world try to visually replicate "Targets" in smallest possible CSS code and battle it out to get to the top of the leaderboard.
+### My submissions to a few css battles from [cssbatte.dev](https://cssbattle.dev/)
 
-My submissions to a few css battles from [cssbatte.dev](https://cssbattle.dev/)
+CSSBattle is an online CSS [Code Golfing](https://en.wikipedia.org/wiki/Code_golf) game. Here, players from all around the world try to visually replicate "Targets" in smallest possible CSS code and battle it out to get to the top of the leaderboard.
 
 [My Favourite😁](./Ukulele/Ukulele.jpg)
 
