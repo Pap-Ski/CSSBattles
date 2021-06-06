@@ -9,4 +9,4 @@ My submissions to a few css battles from [cssbatte.dev](https://cssbattle.dev/)
 | Letter B         | [letterB.jpg](./Letter%20B/letterB.jpg)                         |
 | Push Button      | [pushButton.jpg](./Push%20Button/pushButton.jpg)                |
 | Stripes          | [stripes.jpg](./stripes/stripes.jpg)                            |
-| Ukulele          | [Ukulele.jpg](./Ukulele/Ukulele)                                |
+| Ukulele          | [Ukulele.jpg](./Ukulele/Ukulele.jpg)                            |
