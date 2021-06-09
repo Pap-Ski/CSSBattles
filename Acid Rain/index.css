@@ -1,5 +1,11 @@
+:root {
+  --fc-col1: #0b2429;
+  --fc-col2: #f3ac3c;
+  --fc-col3: #998235;
+}
+
 body {
-  background: #0b2429;
+  background: var(--fc-col1);
 }
 
 .wrapper {
@@ -16,14 +22,14 @@ body {
 }
 
 .one {
-  background: #f3ac3c;
+  background: var(--fc-col2);
   transform: rotate(180deg) translate(-120%);
 }
 .two {
-  background: #998235;
+  background: var(--fc-col3);
   transform: translate(70%, -50%);
 }
 .three {
-  background: #f3ac3c;
+  background: var(--fc-col2);
   transform: translate(20%, -100%);
 }

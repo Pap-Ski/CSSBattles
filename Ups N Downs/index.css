@@ -1,5 +1,10 @@
+:root {
+  --fc-col1: #62306d;
+  --fc-col2: #f7ec7d;
+}
+
 body {
-  background-color: #62306d;
+  background-color: var(--fc-col1);
 }
 
 .wrapper {
@@ -10,7 +15,7 @@ body {
   width: 80%;
 }
 .wrapper div {
-  background-color: #f7ec7d;
+  background-color: var(--fc-col2);
   width: 40%;
   height: 40vh;
   border-radius: 50% 50% 0 0;
