@@ -1,0 +1,29 @@
+body {
+  background: #0b2429;
+}
+
+.wrapper {
+  margin: auto;
+  margin-top: 5%;
+  width: 50%;
+  height: 80vh;
+}
+.wrapper div {
+  position: relative;
+  width: 40%;
+  height: 40vh;
+  border-radius: 50% 0 50% 50%;
+}
+
+.one {
+  background: #f3ac3c;
+  transform: rotate(180deg) translate(-120%);
+}
+.two {
+  background: #998235;
+  transform: translate(70%, -50%);
+}
+.three {
+  background: #f3ac3c;
+  transform: translate(20%, -100%);
+}
