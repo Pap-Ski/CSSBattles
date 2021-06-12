@@ -15,5 +15,5 @@ CSSBattle is an online CSS [Code Golfing](https://en.wikipedia.org/wiki/Code_gol
 | Stripes          | [stripes.jpg](./stripes/stripes.jpg)                            |
 | Ukulele          | [Ukulele.jpg](./Ukulele/Ukulele.jpg)                            |
 | Ups N Downs      | [upsNdowns.jpg](./Ups%20N%20Downs/upsNdowns.jpg)                |
-| Acid Rain        | [acidRain.jpg](./Acid%20Rain/acidRain.jpg)                      |
+| Acid Rain        | ![acidRain.jpg](./Acid%20Rain/acidRain.jpg)                     |
 | Tesseract        | [tesseract.jpg](./Tesseract/tesseract.jpg)                      |
