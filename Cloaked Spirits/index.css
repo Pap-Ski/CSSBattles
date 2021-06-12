@@ -1,0 +1,47 @@
+:root {
+  --clr-bg: #62306d;
+  --clr-base: #f7ec7d;
+  --clr-cir1: #e38f66;
+  --clr-cir2: #aa445f;
+}
+
+body {
+  margin: 0;
+  background: var(--clr-bg);
+}
+.container {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  width: 80%;
+  height: 100vh;
+}
+
+.base {
+  background: var(--clr-base);
+  width: 30%;
+}
+.base.side {
+  background: var(--clr-base);
+  height: 35%;
+}
+.base.mid {
+  height: 70%;
+}
+
+.circle {
+  width: 60%;
+  height: 60%;
+  border-radius: 50%;
+  transform: translate(33%, -50%);
+}
+.circle.side {
+  background: var(--clr-cir1);
+  box-shadow: 0 0 0 5vw var(--clr-cir2);
+}
+.circle.mid {
+  height: calc(60% / 2);
+  background: var(--clr-cir2);
+  box-shadow: 0 0 0 5vw var(--clr-cir1);
+}

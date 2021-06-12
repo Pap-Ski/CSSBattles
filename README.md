@@ -8,6 +8,7 @@ CSSBattle is an online CSS [Code Golfing](https://en.wikipedia.org/wiki/Code_gol
 
 | Battle Name      | Screenshot                                                       |
 | ---------------- | ---------------------------------------------------------------- |
+| Cloaked Spirits  | ![cloakedSpirits.jpg](./Cloaked%20Spirits/cloakedSpirits.jpg)    |
 | Eye of The Tiger | ![eyeOfTheTiger.jpg](./Eye%20of%20The%20Tiger/eyeOfTheTiger.jpg) |
 | Leafy Trail      | ![leafyTrail.jpg](./Leafy%20Trail/leafyTrail.jpg)                |
 | Letter B         | ![letterB.jpg](./Letter%20B/letterB.jpg)                         |
