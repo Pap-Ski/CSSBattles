@@ -18,3 +18,4 @@ CSSBattle is an online CSS [Code Golfing](https://en.wikipedia.org/wiki/Code_gol
 | Ups N Downs      | ![upsNdowns.jpg](./Ups%20N%20Downs/upsNdowns.jpg)                |
 | Acid Rain        | ![acidRain.jpg](./Acid%20Rain/acidRain.jpg)                      |
 | Tesseract        | ![tesseract.jpg](./Tesseract/tesseract.jpg)                      |
+| Forking Crazy    | ![forkingCrazy.jpg](./Forking%20Crazy/forkingCrazy.jpg)          |
