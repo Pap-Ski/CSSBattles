@@ -19,3 +19,4 @@ CSSBattle is an online CSS [Code Golfing](https://en.wikipedia.org/wiki/Code_gol
 | Acid Rain        | ![acidRain.jpg](./Acid%20Rain/acidRain.jpg)                      |
 | Tesseract        | ![tesseract.jpg](./Tesseract/tesseract.jpg)                      |
 | Forking Crazy    | ![forkingCrazy.jpg](./Forking%20Crazy/forkingCrazy.jpg)          |
+| Eye of Sauron    | ![eyeOfSauron](./Eye%20of%20Sauron/eyeOfSauron.jpg)              |
