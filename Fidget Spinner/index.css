@@ -1,0 +1,41 @@
+body {
+  background: #09042a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.back {
+  position: relative;
+  width: 200px;
+  height: 60px;
+  background: #e78481;
+  border-radius: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.circle {
+  background: red;
+  width: 60px;
+  height: 60px;
+
+  border-radius: 50%;
+}
+.front {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 80px;
+  height: 165px;
+}
+.two {
+  background: #09042a;
+  box-shadow: 0 0 0 10px #e78481;
+  margin: 10px;
+}
+.one {
+  background: #f5bb9c;
+  box-shadow: 0 0 0 10px #09042a;
+}

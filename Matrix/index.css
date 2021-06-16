@@ -1,0 +1,30 @@
+:root {
+  --clr-col1: #5c434c;
+  --clr-col2: #f09462;
+  --clr-col3: #f5d6b4;
+}
+
+body {
+  background: var(--clr-col1);
+  height: 90vh;
+}
+.wrapper {
+  margin: 2rem;
+  height: 100%;
+  display: grid;
+  grid-template-columns: repeat(4, 20%);
+  grid-column-gap: 6%;
+  grid-row-gap: 5%;
+}
+
+.quadrant {
+  height: 90%;
+  border-top-left-radius: 100%;
+}
+
+.quadrant.one {
+  background-color: var(--clr-col2);
+}
+.quadrant:not(.one) {
+  background-color: var(--clr-col3);
+}
