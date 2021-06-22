@@ -1,0 +1,46 @@
+:root{
+    --clr-bg: #f2f2b6;
+    --clr-tri-clr1: #fd4602;
+    --clr-tri-clr2: #ff6d00;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    background: var(--clr-bg);
+}
+.wrapper{
+    margin: 2rem auto;
+    width: 80%;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+  .triangle{
+    border-left: 30rem solid transparent;
+    border-bottom: 62rem solid;
+    border-right: 30rem solid transparent;
+    transform: translate(35%);
+  }
+  .color1{
+    border-bottom-color: var(--clr-tri-clr1);
+  }
+  .color2{
+    border-bottom-color: var(--clr-tri-clr2);
+  }
+  .rotate{
+    transform: rotate(180deg) translate(var(--translate-x));
+  }
+  .front{
+    position: absolute;
+  }
+  .triangle.color2:not(.front){
+    transform: translate(-5%);
+  }
+  .color2:is(.front){
+    --translate-x: 40%;
+  }
+  .color1:not(.front){
+   --translate-x: -20%;
+  }

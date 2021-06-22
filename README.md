@@ -22,3 +22,4 @@ CSSBattle is an online CSS [Code Golfing](https://en.wikipedia.org/wiki/Code_gol
 | Forking Crazy    | ![forkingCrazy.jpg](./Forking%20Crazy/forkingCrazy.jpg)          |
 | Eye of Sauron    | ![eyeOfSauron](./Eye%20of%20Sauron/eyeOfSauron.jpg)              |
 | Matrix           | ![matrix.jpg](./Matrix/matrix.jpg)                               |
+| Web Maker Logo | ![webMakerLogo.jpg](./Web%20Maker%20Logo/webMakerLogo.jpg) |
