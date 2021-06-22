@@ -25,3 +25,4 @@ CSSBattle is an online CSS [Code Golfing](https://en.wikipedia.org/wiki/Code_gol
 | Web Maker Logo | ![webMakerLogo.jpg](./Web%20Maker%20Logo/webMakerLogo.jpg) |
 | Overlap | ![overlap.jpg](./Overlap/overlap.jpg)|
 | Totally Triangle | ![totallyTriangle](./Totally%20Triangle/totallyTriangle.jpg)|
+| Missing Slice | ![missingSlice.jpg](./Missing%20Slice/missingSlice.jpg)|
