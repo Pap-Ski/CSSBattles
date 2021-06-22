@@ -1,0 +1,15 @@
+:root{
+    --clr-bg: #0B2429;
+    --clr-clr1: #F3AC3C;
+}
+
+body{
+    background: var(--clr-bg);
+}
+
+div{
+    background: var(--clr-clr1);
+    width: 40rem;
+    height: 40rem;
+    transform: rotate(45deg) translate(-80%);
+}
