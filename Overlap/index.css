@@ -1,0 +1,41 @@
+:root{
+    --clr-bg: #09042a;
+    --clr-cir-clr1: #7b3f61;
+    --clr-cir-clr2: #d78481;
+}
+
+body{
+    background: var(--clr-bg);
+
+  }
+  .wrapper{
+      position: relative;
+      margin: 2rem auto;
+   width: 90%;
+     height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .circle{
+    width: 60%;
+    height: 70%;
+    border-radius: 50%;
+    transform: translate(var(--translate-x));
+  }
+  .mauve{
+    background: var(--clr-cir-clr1);
+    --translate-x:-33%;
+  }
+  .pink{
+    background: var(--clr-cir-clr2);
+    position: absolute;
+    --translate-x:33%;
+    overflow: hidden;
+  }
+  .dark-blue{
+    background: var(--clr-bg);
+    width: 100%;
+    height: 100%;
+    --translate-x:-66%;
+  }
