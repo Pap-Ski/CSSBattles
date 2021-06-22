@@ -1,0 +1,45 @@
+:root {
+    --clr-bg: #0B2429;
+    --clr-col1: #1A4341;
+    --clr-col2: #f3ac3c;
+    --clr-col3: #998235;
+}
+
+body {
+    background: var(--clr-bg);
+}
+
+.wrapper {
+    position: relative;
+    margin: 2rem auto;
+    width: 80%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.square {
+    width: 130px;
+    height: 130px;
+    background: var(--clr-col2);
+    transform: translate(0, 70%) rotate(45deg) scale(2.5);
+}
+
+.square::before {
+    content: "";
+    position: absolute;
+    width: 70px;
+    height: 130px;
+    background: var(--clr-col3);
+    transform: translate(-85%, -19%) skewY(45deg) rotateY(45deg);
+}
+
+.square::after {
+    content: "";
+    position: absolute;
+    width: 130px;
+    height: 70px;
+    background: var(--clr-col1);
+    transform: translate(-19%, -85%) skewX(45deg) rotateX(45deg);
+}
