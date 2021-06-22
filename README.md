@@ -26,3 +26,4 @@ CSSBattle is an online CSS [Code Golfing](https://en.wikipedia.org/wiki/Code_gol
 | Overlap | ![overlap.jpg](./Overlap/overlap.jpg)|
 | Totally Triangle | ![totallyTriangle](./Totally%20Triangle/totallyTriangle.jpg)|
 | Missing Slice | ![missingSlice.jpg](./Missing%20Slice/missingSlice.jpg)|
+| Wiggly Moustache | ![wigglyMoustache.jpg](./Wiggly%20Moustache/wigglyMoustache.jpg)|

@@ -1,0 +1,62 @@
+:root {
+    --clr-bg: #F5D6B4;
+    --clr-col1: #D86F45;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background: var(--clr-bg);
+}
+
+.wrapper {
+    margin: 1rem auto;
+    width: 90%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.semi-circle {
+    width: 30rem;
+    height: 15rem;
+    border-radius: 500px 500px 0 0;
+    border: 10rem solid var(--clr-col1);
+    border-bottom: 0rem;
+    transform: translate(0, -50%);
+}
+
+.left {
+    position: relative;
+    transform: translate(25%, 50%) rotate(180deg);
+}
+
+.right {
+    position: relative;
+    transform: translate(-25%, 50%) rotate(180deg);
+}
+
+.left::before {
+    content: "";
+    position: absolute;
+    top: 10rem;
+    right: -10rem;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    background: var(--clr-col1);
+}
+
+.right::before {
+    content: "";
+    position: absolute;
+    top: 10rem;
+    right: 20.5rem;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    background: var(--clr-col1);
+}
