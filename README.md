@@ -28,3 +28,4 @@ CSSBattle is an online CSS [Code Golfing](https://en.wikipedia.org/wiki/Code_gol
 | Missing Slice    | ![missingSlice.jpg](./Missing%20Slice/missingSlice.jpg)          |
 | Wiggly Moustache | ![wigglyMoustache.jpg](./Wiggly%20Moustache/wigglyMoustache.jpg) |
 | Cube             | ![cube.jpg](./Cube/cube.jpg)                                     |
+| Ticket           | ![ticket.jpg](./Ticket/ticket.jpg)                               |

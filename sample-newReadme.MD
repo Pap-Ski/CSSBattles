@@ -47,8 +47,9 @@ CSSBattle is an online CSS [Code Golfing](https://en.wikipedia.org/wiki/Code_gol
 
 ## Cursor
 
-| Target | Screenshot                   |
-| ------ | ---------------------------- |
-| Cube   | ![cube.jpg](./Cube/cube.jpg) |
+| Target | Screenshot                         |
+| ------ | ---------------------------------- |
+| Cube   | ![cube.jpg](./Cube/cube.jpg)       |
+| Ticket | ![ticket.jpg](./Ticket/ticket.jpg) |
 
 [Back To Top](#battles)
