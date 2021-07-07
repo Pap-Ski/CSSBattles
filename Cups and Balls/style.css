@@ -1,0 +1,45 @@
+:root {
+    --clr-col1: #1a434a;
+    --clr-col2: #998235;
+    --clr-col3: #f3ac3c;
+    ;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: var(--clr-col1);
+}
+
+.wrapper {
+    margin: 2rem auto;
+    width: 80%;
+    height: 90vh;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 5rem;
+}
+
+.light {
+    background: var(--clr-col3);
+}
+
+.dark {
+    background: var(--clr-col2);
+}
+
+.ball {
+    border-radius: 50%;
+}
+
+.cup {
+    border-radius: 50% 50% 0 0;
+}
+
+.rotate {
+    transform: rotate(180deg);
+}
