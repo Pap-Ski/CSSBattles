@@ -5,7 +5,7 @@
 CSSBattle is an online CSS [Code Golfing](https://en.wikipedia.org/wiki/Code_golf) game. Here, players from all around the world try to visually replicate "Targets" in smallest possible CSS code and battle it out to get to the top of the leaderboard.
 
 A few of them have some _exciting_ features.
-[My Favourite😁](./Smiley/smiley.jpg)
+[My Favourite😁](./Ukulele/ukulele.jpg)
 
 # BATTLES
 
