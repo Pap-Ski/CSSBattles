@@ -4,7 +4,8 @@
 
 CSSBattle is an online CSS [Code Golfing](https://en.wikipedia.org/wiki/Code_golf) game. Here, players from all around the world try to visually replicate "Targets" in smallest possible CSS code and battle it out to get to the top of the leaderboard.
 
-[My Favourite😁](./Ukulele/Ukulele.jpg)
+A few of them have some _exciting_ features.
+[My Favourite😁](./Smiley/smiley.jpg)
 
 # BATTLES
 
@@ -61,5 +62,6 @@ CSSBattle is an online CSS [Code Golfing](https://en.wikipedia.org/wiki/Code_gol
 | -------------- | ---------------------------------------------------------- |
 | Lock Up        | ![lockUp.jpg](./Lock%20Up/lockUp.jpg)                      |
 | Cups and Balls | ![cupsAndBalls.jpg](./Cups%20and%20Balls/cupsAndBalls.jpg) |
+| Smiley         | ![smiley.jpg](./Smiley/smiley.jpg)                         |
 
 [Back To Top](#battles)
