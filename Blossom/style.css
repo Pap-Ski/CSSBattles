@@ -1,0 +1,52 @@
+:root {
+    --clr-col1: #998235;
+    --clr-col2: #1a434a;
+    --clr-col3: #f3ac3c;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--clr-col1);
+}
+
+.wrapper {
+    margin: 2rem auto;
+    width: 60%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper>div {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.green {
+    width: 90%;
+    height: 60%;
+    border-radius: 0 50% 0 50%;
+    background: var(--clr-col2);
+}
+
+.yellow {
+    width: 90%;
+    height: 40%;
+    border-radius: 0 50% 0 50%;
+    background: var(--clr-col3);
+}
+
+.rotate {
+    transform: rotateY(180deg);
+}
