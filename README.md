@@ -11,7 +11,7 @@ A few of them have some _exciting_ features.
 # BATTLES
 
 - [CSSBattle SUBMISSIONS](#cssbattle-submissions)
-  - [My submissions to a few css battles from cssbattle.dev](#my-submissions-to-a-few-css-battles-from-cssbattledev)
+    - [My submissions to a few css battles from cssbattle.dev](#my-submissions-to-a-few-css-battles-from-cssbattledev)
 - [BATTLES](#battles)
   - [Pilot Battle](#pilot-battle)
   - [Visibility](#visibility)
@@ -64,6 +64,7 @@ A few of them have some _exciting_ features.
 
 | Target         | Screenshot                                                 |
 | -------------- | ---------------------------------------------------------- |
+| Boxception     | ![boxception.jpg](./Boxception/boxception.jpg)             |
 | Lock Up        | ![lockUp.jpg](./Lock%20Up/lockUp.jpg)                      |
 | Cups and Balls | ![cupsAndBalls.jpg](./Cups%20and%20Balls/cupsAndBalls.jpg) |
 | Smiley         | ![smiley.jpg](./Smiley/smiley.jpg)                         |

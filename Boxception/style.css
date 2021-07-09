@@ -1,0 +1,83 @@
+:root {
+    --clr-col1: #f3ac3c;
+    --clr-col2: #1a4341;
+    --clr-col3: #998235;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--clr-col1);
+}
+
+.wrapper {
+    margin: 2rem auto;
+    width: 60%;
+    height: 90vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.rect {
+    grid-row: 1/3;
+    grid-column: 2/3;
+    animation: moveXl 2s ease infinite;
+}
+
+.dgreen {
+    background-color: var(--clr-col2);
+}
+
+.square.dgreen {
+    animation: moveYd 2s ease infinite;
+}
+
+.lgreen {
+    --x: 100%;
+    background-color: var(--clr-col3);
+    position: relative;
+    animation: moveYu 2s ease infinite;
+}
+
+.lgreen::after {
+    --x: -100%;
+    content: "";
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    background-color: var(--clr-col1);
+    width: 50%;
+    height: 50%;
+    animation: moveYu 2s ease infinite;
+}
+
+@keyframes moveYd {
+    from {
+        transform: translate(0, 0);
+    }
+    to {
+        transform: translate(100%, 100%);
+    }
+}
+
+@keyframes moveYu {
+    from {
+        transform: translate(0, 0);
+    }
+    to {
+        transform: translate(var(--x), -100%);
+    }
+}
+
+@keyframes moveXl {
+    from {
+        transform: translate(0, 0);
+    }
+    to {
+        transform: translateX(-100%);
+    }
+}
