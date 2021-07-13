@@ -1,0 +1,48 @@
+:root {
+    --clr-col1: #ffffff;
+    --clr-col2: #f3ac3c;
+    --clr-col3: #a3a368;
+    --clr-col4: #fbd18c;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--clr-col1);
+}
+
+.wrapper {
+    margin: 2rem auto;
+    width: 80%;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dia {
+    width: 8rem;
+    height: 8rem;
+    background-color: var(--clr-col4);
+    transform: rotate(45deg);
+}
+
+.left {
+    width: 8rem;
+    height: 40rem;
+    background-color: var(--clr-col3);
+    transform: translate(8rem, 0rem) rotate(45deg);
+}
+
+.right {
+    position: relative;
+    z-index: -1;
+    width: 8rem;
+    height: 40rem;
+    background-color: var(--clr-col2);
+    transform: translate(-8rem, 0rem) rotate(-45deg);
+}

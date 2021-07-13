@@ -1,0 +1,39 @@
+:root {
+    --clr-col1: #aa445f;
+    --clr-col2: #f7ec7d;
+    --clr-col3: #e38f66;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: var(--clr-col1);
+}
+
+.wrapper {
+    margin: 2rem auto;
+    width: 60%;
+    height: 90vh;
+    display: flex;
+    justify-content: space-between;
+    gap: 10rem;
+}
+
+.wrapper>div {
+    width: 50%;
+    height: 100%;
+}
+
+.left {
+    background: var(--clr-col2);
+    border-radius: 200rem 0 0 200rem;
+}
+
+.right {
+    background: var(--clr-col3);
+    border-radius: 0 200rem 200rem 0;
+}

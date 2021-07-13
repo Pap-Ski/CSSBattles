@@ -17,6 +17,7 @@ A few of them have some _exciting_ features.
   - [Cursor](#cursor)
   - [Display](#display)
   - [Inline](#inline)
+  - [Conic](#conic)
 
 ## Pilot Battle
 
@@ -80,5 +81,14 @@ A few of them have some _exciting_ features.
 | --------- | -------------------------------------------------- |
 | Suffocate | ![suffocate.jpg](./Inline/Suffocate/suffocate.jpg) |
 | Horizon   | ![horizon.jpg](./Inline/Horizon/horizon.jpg)       |
+
+[Back To Top](#battles)
+
+## Conic
+
+| Target    | Screenshot                                   |
+| --------- | -------------------------------------------- |
+| Suffocate | ![equals.jpg](./Conic/Equals/equals.jpg)     |
+| Band-aid  | ![bandAid.jpg](./Conic/Band-aid/bandAid.jpg) |
 
 [Back To Top](#battles)
