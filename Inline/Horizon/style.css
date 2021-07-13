@@ -1,0 +1,38 @@
+:root {
+    --clr-col1: #f7ec7d;
+    --clr-col2: #e38f66;
+    --clr-col3: #aa445f;
+    --clr-col4: #62306d;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.one {
+    height: 15%;
+    background-color: var(--clr-col1);
+}
+
+.two {
+    height: 15%;
+    background-color: var(--clr-col2);
+}
+
+.three {
+    height: 35%;
+    background-color: var(--clr-col3);
+}
+
+.four {
+    height: 35%;
+    background-color: var(--clr-col4);
+}

@@ -1,0 +1,40 @@
+:root {
+    --clr-col1: #f3ac3d;
+    --clr-col2: #1a4341;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--clr-col2);
+}
+
+section {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+div {
+    background-color: var(--clr-col1);
+}
+
+.one {
+    border-bottom-right-radius: 15rem;
+}
+
+.two {
+    border-bottom-left-radius: 15rem;
+}
+
+.three {
+    border-top-right-radius: 15rem;
+}
+
+.four {
+    border-top-left-radius: 15rem;
+}

@@ -16,6 +16,7 @@ A few of them have some _exciting_ features.
   - [Visibility](#visibility)
   - [Cursor](#cursor)
   - [Display](#display)
+  - [Inline](#inline)
 
 ## Pilot Battle
 
@@ -70,5 +71,14 @@ A few of them have some _exciting_ features.
 | Blossom        | ![blossom.jpg](./Display/Blossom/blossom.jpg)                      |
 | Switches       | ![switches.jpg](./Display/Switches/switches.jpg)                   |
 | SitePoint Logo | ![sitePointLogo.jpg](./Display/SitePoint%20Logo/sitePointLogo.jpg) |
+
+[Back To Top](#battles)
+
+## Inline
+
+| Target    | Screenshot                                         |
+| --------- | -------------------------------------------------- |
+| Suffocate | ![suffocate.jpg](./Inline/Suffocate/suffocate.jpg) |
+| Horizon   | ![horizon.jpg](./Inline/Horizon/horizon.jpg)       |
 
 [Back To Top](#battles)
