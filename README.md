@@ -25,7 +25,7 @@ A few of them have some _exciting_ features.
 | Leafy Trail      | ![leafyTrail.jpg](./Pilot%20Battle/Leafy%20Trail/leafyTrail.jpg)                |
 | Letter B         | ![letterB.jpg](./Pilot%20Battle/Letter%20B/letterB.jpg)                         |
 | Push Button      | ![pushButton.jpg](./Pilot%20Battle/Push%20Button/pushButton.jpg)                |
-| Stripes          | ![stripes.jpg](./Pilot%20Battle/stripes/stripes.jpg)                            |
+| Stripes          | ![stripes.jpg](./Pilot%20Battle/Stripes/stripes.jpg)                            |
 | Ukulele          | ![Ukulele.jpg](./Pilot%20Battle/Ukulele/Ukulele.jpg)                            |
 | Ups N Downs      | ![upsNdowns.jpg](./Pilot%20Battle/Ups%20N%20Downs/upsNdowns.jpg)                |
 | Acid Rain        | ![acidRain.jpg](./Pilot%20Battle/Acid%20Rain/acidRain.jpg)                      |
