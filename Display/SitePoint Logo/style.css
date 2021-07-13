@@ -1,0 +1,79 @@
+:root {
+    --clr-col1: #222;
+    --clr-col2: #f2994a;
+    --clr-col3: #2d9cdb;
+}
+
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--clr-col1);
+}
+
+.wrapper {
+    margin: 2rem auto;
+    width: 70%;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8rem;
+    animation: space 2s linear infinite alternate;
+}
+
+@keyframes rotate {
+    to {
+        transform: rotate(-180deg);
+    }
+}
+
+@keyframes space {
+    to {
+        gap: 45rem;
+    }
+}
+
+div:not(.wrapper) {
+    position: relative;
+    width: 6rem;
+    height: 15rem;
+    transform: rotate(-45deg);
+    border-radius: 1rem 0 1rem 0;
+}
+
+div:not(.wrapper)::before {
+    content: "";
+    position: absolute;
+    width: 6rem;
+    height: 20rem;
+}
+
+.left {
+    animation: rotate 2s linear infinite alternate;
+}
+
+.right {
+    animation: rotate 2s linear infinite alternate;
+}
+
+.left::before {
+    transform: translate(7rem, -7rem) rotate(90deg);
+    border-bottom-left-radius: 1rem;
+}
+
+.left, .left::before {
+    background-color: var(--clr-col2);
+}
+
+.right::before {
+    transform: translate(-7rem, 2rem) rotate(90deg);
+    border-top-right-radius: 1rem;
+}
+
+.right, .right::before {
+    background-color: var(--clr-col3);
+}

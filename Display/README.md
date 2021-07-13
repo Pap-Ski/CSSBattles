@@ -8,3 +8,4 @@
 | Smiley         | ![smiley.jpg](./Smiley/smiley.jpg)                         |
 | Blossom        | ![blossom.jpg](./Blossom/blossom.jpg)                      |
 | Switches       | ![switches.jpg](./Switches/switches.jpg)                   |
+| SitePoint Logo | ![sitePointLogo.jpg](./SitePoint%20Logo/sitePointLogo.jpg) |

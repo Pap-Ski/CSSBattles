@@ -69,5 +69,6 @@ A few of them have some _exciting_ features.
 | Smiley         | ![smiley.jpg](./Display/Smiley/smiley.jpg)                         |
 | Blossom        | ![blossom.jpg](./Display/Blossom/blossom.jpg)                      |
 | Switches       | ![switches.jpg](./Display/Switches/switches.jpg)                   |
+| SitePoint Logo | ![sitePointLogo.jpg](./Display/SitePoint%20Logo/sitePointLogo.jpg) |
 
 [Back To Top](#battles)
