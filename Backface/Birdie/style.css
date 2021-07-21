@@ -1,0 +1,48 @@
+:root {
+    --clr-col1: #1A4341;
+    --clr-col2: #998235;
+    --clr-col3: #F3AC3C;
+    --clr-col4: #0B2429;
+}
+
+body {
+    background-color: var(--clr-col1);
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 60%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.face {
+    width: 14rem;
+    height: 28rem;
+    border-radius: 20rem 0 0 20rem;
+    background-color: var(--clr-col2);
+    position: relative;
+    top: 4rem;
+}
+
+.face::after {
+    content: "";
+    position: absolute;
+    top: 3rem;
+    left: 8rem;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    background-color: var(--clr-col4);
+}
+
+.beak {
+    position: relative;
+    top: -6rem;
+    width: 17rem;
+    height: 17rem;
+    background-color: var(--clr-col3);
+    border-top-right-radius: 20rem;
+}

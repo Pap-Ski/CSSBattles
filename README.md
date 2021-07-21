@@ -5,7 +5,7 @@ My submissions to a few css battles from [cssbattle.dev](https://cssbattle.dev/)
 CSSBattle is an online CSS [Code Golfing](https://en.wikipedia.org/wiki/Code_golf) game. Here, players from all around the world try to visually replicate "Targets" in smallest possible CSS code and battle it out to get to the top of the leaderboard.
 
 My aim however is not to use the smallest possible css, but to replicate "Targets" to fit the entire browser window.
-A few of them have some _exciting_ features.
+A few of them have some _exciting_ features as well.
 [My Favourite😁](./Pilot%20Battle/Ukulele/Ukulele.jpg)
 
 # BATTLES
