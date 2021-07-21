@@ -1,0 +1,44 @@
+:root {
+    --clr-col1: #007065;
+    --clr-col2: #ffeecf;
+    --clr-col3: #f5c181;
+    --clr-col4: #00a79d;
+}
+
+body {
+    background-color: var(--clr-col1);
+}
+
+.wrapper {
+    margin: 1rem auto;
+    width: 80%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.tri {
+    border-bottom: 22rem solid;
+    border-right: 20rem solid transparent;
+    border-left: 20rem solid transparent;
+    position: absolute;
+}
+
+.one {
+    z-index: 1;
+    top: 2rem;
+    border-bottom-color: var(--clr-col2);
+}
+
+.two {
+    top: 10rem;
+    border-bottom-color: var(--clr-col3);
+}
+
+.three {
+    z-index: -1;
+    top: 17rem;
+    border-bottom-color: var(--clr-col4);
+}
