@@ -18,6 +18,7 @@ A few of them have some _exciting_ features as well.
   - [Display](#display)
   - [Inline](#inline)
   - [Conic](#conic)
+  - [Backface](#backface)
 
 ## Pilot Battle
 
@@ -90,5 +91,13 @@ A few of them have some _exciting_ features as well.
 | --------- | -------------------------------------------- |
 | Suffocate | ![equals.jpg](./Conic/Equals/equals.jpg)     |
 | Band-aid  | ![bandAid.jpg](./Conic/Band-aid/bandAid.jpg) |
+
+[Back To Top](#battles)
+
+## Backface
+
+| Target    | Screenshot                                   |
+| --------- | -------------------------------------------- |
+| Birdie | ![birdie.jpg](./Backface/Birdie/birdie.jpg)     |
 
 [Back To Top](#battles)
